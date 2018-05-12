@@ -1,0 +1,8 @@
+{
+  "name": "myroutine",
+  "app_id": "661fdc77",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
